@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Наталья Аксёнова](https://up.htmlacademy.ru/adaptive/12/user/487673).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Евсеичев](https://htmlacademy.ru/profile/id310215).
 
 ---
 
