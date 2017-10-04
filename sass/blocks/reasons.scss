@@ -1,0 +1,5 @@
+@import "../utils.scss";
+
+.reasons__list {
+  @include remove-list-style();
+}
