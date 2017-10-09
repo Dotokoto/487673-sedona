@@ -11,3 +11,9 @@
     flex-wrap: wrap;
   }
 }
+
+@media (min-width: $desktop-width) {
+  .photos {
+    width: 1200px;
+  }
+}

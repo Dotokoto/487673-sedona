@@ -58,3 +58,12 @@
     margin-top: -92px;
   }
 }
+
+@media (min-width: $desktop-width) {
+  .video,
+  .video__cover,
+  .video__controls,
+  .video__progress {
+    width: 800px;
+  }
+}

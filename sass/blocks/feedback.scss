@@ -144,3 +144,34 @@
     display: inline-block;
   }
 }
+
+@media (min-width: $desktop-width) {
+  .feedback {
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  .feedback__fieldset,
+  .feedback__submit-wrapper {
+    width: 960px;
+  }
+
+  .feedback__fieldset--name,
+  .feedback__fieldset--impressions {
+    width: 480px;
+  }
+
+  .feedback__checkbox-wrapper {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .feedback__submit-wrapper {
+    margin: 58px 0 66px;
+    align-items: baseline;
+  }
+
+  .feedback__submit {
+    width: 480px;
+  }
+}
